@@ -15,7 +15,7 @@
 ## Support and contact details
 {In the event of an error during running of this program, have any queries or even want to contribute to the code ;-kindly contact the developer using devsarahmarion@gmail.com}
 ### License
-*{Author claims no ownership of images used on this webpage or images on pages linked from this page.}
+{Author claims no ownership of images used on this webpage or images on pages linked from this page.}
 
 *{Standard Licence}*
 Copyright (c) {2018} **{Sarah Marion Co.}**
