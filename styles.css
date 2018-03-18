@@ -67,9 +67,11 @@ h1 {
 .part2 h2 {
   margin-top: 7%;
 }
-.part3 p{
+
+.part3 p {
   text-align: center;
 }
+
 .part3 ol {
   list-style-type: none;
   background-color: black;
