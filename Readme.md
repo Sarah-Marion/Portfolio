@@ -6,7 +6,7 @@
 
 ## Description
 
-{This is a standalone web page with a list of projects created and actively linked to Github and Github pages using both HTML and CSS. It also includes information on work experience and hobbies.}
+This is a standalone web page with a list of projects created and actively linked to Github and Github pages using both HTML and CSS. It also includes information on work experience and hobbies.
 
 ## Setup/Installation Requirements
 
@@ -16,11 +16,11 @@
 
 ## Known Bugs
 
-{It does not have bugs.If any found, kindly reach out to me. }
+It does not have bugs.If any found, kindly reach out to me.
 
 ## Technologies Used
 
-{During development of this project HTML and CSS were used to give it style and depth}
+During development of this project HTML and CSS were used to give it style and depth
 
 ## Support and contact details
 
