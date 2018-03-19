@@ -9,7 +9,7 @@
 * This site can be viewed at https://github.com/Sarah-Marion/Portfolio
 
 ## Known Bugs
-{It does not have bugs }
+{It does not have bugs.If any found, kindly reach out to me. } 
 ## Technologies Used
 {During development of this project HTML and CSS were used to give it style and depth}
 ## Support and contact details
